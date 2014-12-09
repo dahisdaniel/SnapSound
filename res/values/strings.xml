@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SnapSound</string>
+    <string name="title_section1">Inbox</string>
+    <string name="title_section2">Friends</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="logInButton">Login</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="emailHint">Email</string>
+    <string name="signUpButton">SignUp</string>
+    <string name="signUpEditText">SignUp!</string>
+    <string name="loginDialogMessage_error">Please, Make sure you typed correctly your data</string>
+    <string name="loginDialogTitle_error">Oops!</string>
+    <string name="failDialogMessage_error">It seems you are not subscribed yet. Sign Up ;)</string>
+    <string name="logOutList">Logout</string>
+    <string name="empty_inbox">Empty Inbox!</string>
+    <string name="empty_friends">Empty Friends-List!</string>
+    <string name="EditFriendList">Edit Friends</string>
+    <string name="title_activity_edit_friends">EditFriends</string>
+    <string name="title_activity_edits_friends">EditsFriends</string>
+    <string name="Message_error">Error</string>
+    <string name="microphone">Microphone</string>
+    <string name="Message_Counter">Record</string>
+    <string name="Message_stop_Recording">Record your Message</string>
+    <string name="DialogTextView">Start Recording</string>
+    <string name="title_activity_list_friends_to_send_sound">ListFriendsToSendSoundActivity</string>
+    <string name="SendButton">Send!</string>
+    <string name="title_activity_list_to_send">ListToSend</string>
+    <string name="action_send_label">Send</string>
+    <string name="error_sending_a_file">It was not possible to send your message</string>
+
+</resources>

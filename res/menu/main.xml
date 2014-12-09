@@ -1,0 +1,24 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.snapsound.MainActivity" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    
+    
+    	<item
+        android:id="@+id/action_edits_friends"
+        android:orderInCategory="100"
+        android:title="@string/EditFriendList"
+        app:showAsAction="never"/>
+    	
+    	
+    	<item android:id="@+id/action_logout" android:orderInCategory="100" android:title="@string/logOutList" app:showAsAction="never" />
+    	
+    	
+        <item android:id="@+id/action_Mic"
+            android:title="@string/microphone"
+            android:icon="@drawable/ic_action_mic"
+            app:showAsAction="always"
+        />
+
+
+</menu>
